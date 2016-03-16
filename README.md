@@ -9,3 +9,13 @@ ngRoute for our page routing
 ngAnimate to create our page animations
 CSS Animations will be applied to the pages
 Each of our pages will have different animations when leaving or entering the view
+
+
+
+
+For Run the app 
+install from your command promt 
+npm install -g express
+run 
+node server.js
+http://localhost:8000/#
